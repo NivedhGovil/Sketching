@@ -13,3 +13,7 @@
 | Week 2 | Tier 1 | 0h | 0 |
 
 _No entries logged yet._
+
+# Learn how to navigate Onshape
+
+# Learn basics lines, arcs, cirlce, rectangles, tools and more. 
